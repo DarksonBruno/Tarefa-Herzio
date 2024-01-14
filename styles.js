@@ -16,8 +16,3 @@ let array = {
 console.log (person)
 console.log (array)
 console.log(person.name + ' likes to play '+ array.hobby[0]);
-
-let automovel = {
-    marca : "bmw",
-    
-}
